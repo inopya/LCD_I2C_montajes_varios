@@ -4,6 +4,8 @@ Aqui encontramos algunos montajes creados durante el aprendizaje del modulo LCD 
 
 *********************************************
 ANIMACION BATERIA CARGANDO
+
 Autor: Eulogio López Cayuela 
+
 Versión 1.0    Fecha: 04/09/2015 
 *********************************************
